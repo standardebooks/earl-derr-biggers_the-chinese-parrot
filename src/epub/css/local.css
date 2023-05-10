@@ -13,3 +13,7 @@ footer{
 	text-align: center;
 }
 
+#chapter-10 blockquote:first-of-type{
+	padding: 2em;
+	text-align: center;
+}
