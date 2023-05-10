@@ -5,3 +5,11 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+
+
+#chapter-4 blockquote:first-of-type{
+	padding: 2em;
+	text-align: center;
+}
+
