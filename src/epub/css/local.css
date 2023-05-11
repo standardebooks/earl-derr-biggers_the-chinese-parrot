@@ -1,8 +1,15 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+#chapter-4 blockquote{
+	margin: 1em auto;
+	max-width: 100%;
+	padding: 2em;
+	width: 20em;
+}
+
 #chapter-4 blockquote p{
-	text-align: center;
+	text-align: initial;
 	text-indent: 0;
 }
 
