@@ -2,11 +2,14 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #chapter-4 blockquote p{
-	text-align: initial;
-	text-indent: 2em;
+	text-indent: 0;
 }
 
 #chapter-10 blockquote p{
 	text-align: center;
 	text-indent: 0;
+}
+
+#chapter-10 blockquote p:first-child{
+	font-variant: small-caps;
 }
