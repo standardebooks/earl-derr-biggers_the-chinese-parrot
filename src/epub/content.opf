@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/earl-derr-biggers/the-chinese-parrot</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-05-17T16:37:22Z</dc:date>
+		<meta property="dcterms:modified">2023-05-17T16:37:22Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,18 +39,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Charlie Chan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">A Chinese detective of the Honolulu Police Department is recruited to safeguard the transfer of a valuable pearl necklace to a famous tychoon.</dc:description>
+		<dc:description id="description">A Chinese detective of the Honolulu Police Department is recruited to safeguard the transfer of a valuable pearl necklace to a famous tycoon.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Charlie Chan, of the Honolulu Police Department makes his second appearance in this novel by &lt;a href="https://standardebooks.org/ebooks/earl-derr-biggers"&gt;Earl Derr Biggers&lt;/a&gt;, published in 1927.&lt;/p&gt;
-			&lt;p&gt;A Honolulu widow is forced to sell her pearl necklace, and persuades her friend, Charlie to convey the necklace to its new owner, a famous businessman.&lt;/p&gt;
-			&lt;p&gt;Chan teams up with the son of a prominent jeweller handling the sale. Before they can safely deliver the necklance into the proper hands, the pair need throw criminals off their trail and solve a mystery involving murder.&lt;/p&gt;
-			&lt;p&gt;The novel was adapted for film in both 1927 and 1934.&lt;/p&gt;
+			&lt;p&gt;Charlie Chan of the Honolulu Police Department makes his second appearance when a Honolulu widow is forced to sell her pearl necklace. She persuades Charlie to convey the necklace to its new owner, a famous businessman.&lt;/p&gt;
+			&lt;p&gt;Chan teams up with the son of a prominent jeweler handling the sale. But before they can safely deliver the necklace into the proper hands, the pair need throw criminals off their trail and solve a murder mystery.&lt;/p&gt;
+			&lt;p&gt;The novel, published in 1927, was adapted for film in that year and in 1934.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20180799</dc:source>
 		<dc:source>https://archive.org/details/chineseparrot0000bigg/mode/2up</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">83159</meta>
+		<meta property="se:reading-ease.flesch">78.45</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Chinese_Parrot</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/earl-derr-biggers_the-chinese-parrot</meta>
 		<dc:creator id="author">Earl Derr Biggers</dc:creator>
@@ -58,8 +57,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Earl_Derr_Biggers</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81035377</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Unknown</dc:contributor>
-		<meta property="file-as" refines="#artist">Unknown</meta>
+		<dc:contributor id="artist">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
@@ -74,6 +73,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
