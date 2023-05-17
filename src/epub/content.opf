@@ -39,11 +39,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Charlie Chan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">Charlie Chan, of the Honolulu Police Department is recruited to safeguard the transfer of a valuable pearl necklace to a famous tychoon.</dc:description>
+		<dc:description id="description">A Chinese detective of the Honolulu Police Department is recruited to safeguard the transfer of a valuable pearl necklace to a famous tychoon.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Charlie Chan, of the Honolulu Police Department makes his second appearance in this novel, published in 1927.&lt;/p&gt;
+			&lt;p&gt;Charlie Chan, of the Honolulu Police Department makes his second appearance in this novel by &lt;a href="https://standardebooks.org/ebooks/earl-derr-biggers"&gt;Earl Derr Biggers&lt;/a&gt;, published in 1927.&lt;/p&gt;
 			&lt;p&gt;A Honolulu widow is forced to sell her pearl necklace, and persuades her friend, Charlie to convey the necklace to its new owner, a famous businessman.&lt;/p&gt;
 			&lt;p&gt;Chan teams up with the son of a prominent jeweller handling the sale. Before they can safely deliver the necklance into the proper hands, the pair need throw criminals off their trail and solve a mystery involving murder.&lt;/p&gt;
+			&lt;p&gt;The novel was adapted for film in both 1927 and 1934.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20180799</dc:source>
@@ -60,9 +61,9 @@
 		<dc:contributor id="artist">Unknown</dc:contributor>
 		<meta property="file-as" refines="#artist">Unknown</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">&gt;Al Haines</dc:contributor>
+		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
-		<dc:contributor id="transcriber-2">&gt;Cindy Beyer</dc:contributor>
+		<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Norman C. Walz</dc:contributor>
