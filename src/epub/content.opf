@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/earl-derr-biggers/the-chinese-parrot</dc:identifier>
 		<dc:date>2023-05-17T16:37:22Z</dc:date>
@@ -41,12 +41,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Charlie Chan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">A Chinese detective of the Honolulu Police Department is recruited to safeguard the transfer of a valuable pearl necklace to a famous tycoon.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A Chinese detective of the Honolulu Police Department is recruited to safeguard the transfer of a valuable pearl necklace to a famous tycoon.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Charlie Chan of the Honolulu Police Department makes his second appearance when a Honolulu widow is forced to sell her pearl necklace. She persuades Charlie to convey the necklace to its new owner, a famous businessman.&lt;/p&gt;
 			&lt;p&gt;Chan teams up with the son of a prominent jeweler handling the sale. But before they can safely deliver the necklace into the proper hands, the pair need throw criminals off their trail and solve a murder mystery.&lt;/p&gt;
 			&lt;p&gt;The novel, published in 1926, was adapted for film in 1927 and 1934.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20180799</dc:source>
 		<dc:source>https://archive.org/details/chineseparrot0000bigg</dc:source>
